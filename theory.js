@@ -37,11 +37,11 @@ const theoryHTML = `
                 <h4>📖 „sich" schimbă sensul!</h4>
                 <p>Unele verbe germane înseamnă <strong>cu totul altceva</strong> când le folosești cu pronumele reflexiv <strong>sich</strong>. Andreea a învățat asta pe pielea ei: a vrut să spună „<em>îmi imaginez</em>" dar a spus „<em>prezint</em>"! 😅</p>
                 <div class="example-box">
-                    <p class="de">Ich stelle <strong>mir</strong> eine Reise vor. <span style="color:#6b7280;">(cu sich = a-și imagina)</span></p>
+                    <p class="de">Ich stelle <strong>mir</strong> eine Reise vor. <span style="color:#5A5147;">(cu sich = a-și imagina)</span></p>
                     <p class="ro">Îmi imaginez o călătorie.</p>
                 </div>
                 <div class="example-box">
-                    <p class="de">Ich stelle dir meinen Freund vor. <span style="color:#6b7280;">(fără sich = a prezenta)</span></p>
+                    <p class="de">Ich stelle dir meinen Freund vor. <span style="color:#5A5147;">(fără sich = a prezenta)</span></p>
                     <p class="ro">Ți-l prezint pe prietenul meu.</p>
                 </div>
             </div>
@@ -74,7 +74,7 @@ const theoryHTML = `
                 <a href="https://forms.gle/pXTJKbDeHi8qjxTN8" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #10B981; color: white; padding: 13px 30px; border-radius: 10px; text-decoration: none; font-weight: bold; font-size: 1rem; box-shadow: 0 2px 6px rgba(16, 185, 129, 0.3);">
                     Trimite textul Claudiei →
                 </a>
-                <p style="color: #6b7280; font-size: 0.78rem; margin-top: 12px; font-style: italic;">
+                <p style="color: #5A5147; font-size: 0.78rem; margin-top: 12px; font-style: italic;">
                     ʚଓ Răspuns personal pe email · Nu uita să-ți treci adresa de email în formular
                 </p>
             </div>
@@ -137,14 +137,14 @@ const theoryHTML = `
                 <span class="lesson-audio-label">🔊 Ascultă secțiunea</span>
             </div>
 
-            <div class="theory-box" style="background:#fef3c7; border-left-color:#f59e0b;">
+            <div class="theory-box" style="background:#F5F0E8; border-left-color:#D4A574;">
                 <h4>⚡ sich verlassen auf ≠ verlassen</h4>
                 <p style="margin:0;">Aceeași literă, două lumi diferite:<br>
                 ✅ Ich <strong>verlasse mich auf</strong> dich. = Mă <strong>bazez pe</strong> tine.<br>
                 ✅ Anna hat Felix <strong>verlassen</strong>. = Anna l-a <strong>părăsit</strong> pe Felix.</p>
             </div>
 
-            <div class="theory-box" style="background:#fef3c7; border-left-color:#f59e0b;">
+            <div class="theory-box" style="background:#F5F0E8; border-left-color:#D4A574;">
                 <h4>⚡ sich umziehen ≠ umziehen</h4>
                 <p style="margin:0;">
                 ✅ Ich <strong>ziehe mich um</strong>. = Mă <strong>schimb</strong> (hainele).<br>
